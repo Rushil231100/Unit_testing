@@ -15,12 +15,14 @@ This is separated from main code, as it might change once govt. changes the rule
 test_main.py file contains the methods that tests the main code.
 It also contains, pre-written unit test cases written by developer himself.
 
-To run these files in your computer , 
-    1. clone the repository ,
-    2. Open the terminal
-    3. run >>> pytest test_main.py -s"
+To run these files in your computer ,
+
+>>>1. clone the repository ,
+>>>2. Open the terminal
+>>>3. run >>> pytest test_main.py -s
     
 Test reults:
 ![alt text](https://github.com/Rushil231100/Unit_testing/blob/master/Result_Screenshot/Annotation%202020-06-22%20130543.png?raw=true)
+![alt text](https://github.com/Rushil231100/Unit_testing/blob/master/Result_Screenshot/Annotation%202020-06-22%20130630.png?raw=true)
 
 
