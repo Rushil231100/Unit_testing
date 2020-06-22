@@ -19,4 +19,8 @@ It also contains, pre-written unit test cases written by developer himself.
     1. clone the repository ,
     2. Open the terminal
     3. run >>> pytest test_main.py -s"
+    
+Test reults:
+![alt text](https://github.com/Rushil231100/Unit_testing/blob/master/Result_Screenshot/Annotation%202020-06-22%20130543.png?raw=true)
+
 
