@@ -10,13 +10,13 @@ It also contains methods for checking the Use case validity, i.e. the method che
 data.py contains the data used in main.py code. 
 This is separated from main code, as it might change once govt. changes the rules for the same.
 
-Payscales of an employee are ranging from 1 to 20.
+>>>Payscales of an employee are ranging from 1 to 20.
 
 test_main.py file contains the methods that tests the main code.
 It also contains, pre-written unit test cases written by developer himself.
 
-To run these files in your computer , 
-1. clone the repository ,
-2. Open the terminal
-3. run >>> pytest test_main.py -s"
+>>>To run these files in your computer , 
+    1. clone the repository ,
+    2. Open the terminal
+    3. run >>> pytest test_main.py -s"
 
