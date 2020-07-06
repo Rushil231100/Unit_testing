@@ -11,8 +11,8 @@ Testing Parameters :
 
 Various Combination can be derived for each tests.
 
-I have applied Predicate coverage for the source code.
-Each predicate is either tested true as well as false.
+I have applied edge coverage for the source code.
+Each edge is tested.
 
 Test set :Tuple of 4 elemnts. (Name, Payscale, amount requested ,Expected value)
 
